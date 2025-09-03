@@ -96,7 +96,7 @@
       <label textcolor="0x000000" enabled="1" height="20" border="1" width="180" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1"/>
       <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot pan="-186.96" skinid="ht_node" id="Point01" url="{node1}" target="104.5/0.0/100.0" description="" tilt="0.17" title="HL Produções de Eventos Ltda&#xa;" distance="3.9491"/>
-      <hotspot pan="39.3084" skinid="ht_node" id="Point02" url="{node3}" target="$fwd" description="" tilt="0" title="HL Produções de Eventos Ltda&#xa;" distance="3.04889"/>
+      <hotspot pan="39.3084" skinid="ht_node" id="Point02" url="{node3}" target="-23.9/0.0/86.1" description="" tilt="0" title="HL Produções de Eventos Ltda&#xa;" distance="3.04889"/>
       <hotspot pan="-0.142306" skinid="ht_node" id="Point03" url="{node4}" target="$fwd" description="" tilt="0.22" title="HL Produções de Eventos Ltda&#xa;" distance="2.53168"/>
       <hotspot pan="-247.071" skinid="ht_node" id="Point04" url="{node10}" target="41.1/0.0/100.0" description="" tilt="0" title="H L Produções de Eventos Ltda" distance="3.826"/>
     </hotspots>
