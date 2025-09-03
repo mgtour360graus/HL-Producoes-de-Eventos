@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node9" hassounds="0" apprev="21010" appversion="7.1.11">
+  <panorama id="node9">
+    <input height="3000" leveltilesize="510" width="3000" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata heading="0" author="" longitude="-51.94392352" source="" comment="" info="" description="" streetviewlink="https://www.google.com/maps/@-23.4208555,-51.9439235,3a,75y,90t/data=!3m4!1e1!3m2!1sCIABIhB2qthQhWdjj_AURVJJbhiy!2e10" copyright="" nodeid="node9" datetime="" tags="1" customnodeid="" title="HL Produções de Eventos Ltda&#xa;" latitude="-23.42085554"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" height="20" border="1" width="180" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot pan="0.0837226" skinid="ht_node" id="Point01" url="{node8}" target="$fwd" description="" tilt="0" title="HL Produções de Eventos Ltda&#xa;" distance="47.4825"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomout="0" enabled="1" blendtime="1" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" delay="none" zoomoutpause="1" softedge="0"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" contextprojections="0" hideabout="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextvr="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="3000" leveltilesize="510" width="3000" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="276.574" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata heading="276.574" author="" longitude="-51.94392420" source="" comment="" info="" description="" streetviewlink="https://www.google.com/maps/@-23.4204285,-51.9439242,3a,75y,276.57h,90t/data=!3m4!1e1!3m2!1sCIABIhCpiH47XeCEOnXAB8udsXjS!2e10" copyright="" nodeid="node8" datetime="" tags="2" customnodeid="" title="HL Produções de Eventos Ltda&#xa;" latitude="-23.42042852"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" height="20" border="1" width="180" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot pan="96.6577" skinid="ht_node" id="Point01" url="{node9}" target="$fwd" description="" tilt="0" title="HL Produções de Eventos Ltda&#xa;" distance="47.4825"/>
+      <hotspot pan="342.88" skinid="ht_node" id="Point02" url="{node1}" target="-60.6/2.0/100.0" description="" tilt="-0.87" title="HL Produções de Eventos Ltda&#xa;" distance="4.8573"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomout="0" enabled="1" blendtime="1" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" delay="none" zoomoutpause="1" softedge="0"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" contextprojections="0" hideabout="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextvr="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="3204" leveltilesize="510" width="3204" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level width="3204" preload="0" predecode="0" height="3204"/>
+      <level width="1602" preload="0" predecode="0" height="1602"/>
+      <level width="801" preload="0" predecode="0" height="801"/>
+      <level width="400" preload="1" predecode="1" height="400"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-156.497" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata heading="-156.497" author="" longitude="-51.94397180" source="" comment="" info="" description="" streetviewlink="https://www.google.com/maps/@-23.4204236,-51.9439751,3a,75y,215.3h,90t/data=!3m4!1e1!3m2!1sCIABIhC3SDf4kyTkrmtIdXuf0ldv!2e10" copyright="" nodeid="node1" datetime="" tags="2" customnodeid="" title="HL Produções de Eventos Ltda&#xa;" latitude="-23.42042914"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" height="20" border="1" width="180" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot pan="-245.684" skinid="ht_node" id="Point01" url="{node8}" target="$fwd" description="" tilt="0" title="HL Produções de Eventos Ltda&#xa;" distance="4.8573"/>
+      <hotspot pan="-105.12" skinid="ht_node" id="Point02" url="{node2}" target="-1.2/1.1/100.0" description="" tilt="0.3" title="HL Produções de Eventos Ltda&#xa;" distance="3.9491"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomout="0" enabled="1" blendtime="1" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" delay="none" zoomoutpause="1" softedge="0"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" contextprojections="0" hideabout="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextvr="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="3000" leveltilesize="510" width="3000" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-94.7873" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata heading="-94.7873" author="" longitude="-51.94401003" source="" comment="" info="" description="" streetviewlink="https://www.google.com/maps/@-23.4204236,-51.94401,3a,75y,263.94h,90t/data=!3m4!1e1!3m2!1sCIABIhCRCCdmULzO74bhAu1mpIWP!2e10" copyright="" nodeid="node2" datetime="" tags="2" customnodeid="" title="HL Produções de Eventos Ltda&#xa;" latitude="-23.42042360"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" height="20" border="1" width="180" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot pan="-186.96" skinid="ht_node" id="Point01" url="{node1}" target="104.5/0.0/100.0" description="" tilt="0.17" title="HL Produções de Eventos Ltda&#xa;" distance="3.9491"/>
+      <hotspot pan="39.3084" skinid="ht_node" id="Point02" url="{node3}" target="$fwd" description="" tilt="0" title="HL Produções de Eventos Ltda&#xa;" distance="3.04889"/>
+      <hotspot pan="-0.142306" skinid="ht_node" id="Point03" url="{node4}" target="$fwd" description="" tilt="0.22" title="HL Produções de Eventos Ltda&#xa;" distance="2.53168"/>
+      <hotspot pan="-247.071" skinid="ht_node" id="Point04" url="{node10}" target="41.1/0.0/100.0" description="" tilt="0" title="H L Produções de Eventos Ltda" distance="3.826"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomout="0" enabled="1" blendtime="1" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" delay="none" zoomoutpause="1" softedge="0"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" contextprojections="0" hideabout="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextvr="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="3000" leveltilesize="510" width="3000" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-226.955" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata heading="-226.955" author="" longitude="-51.94403149" source="" comment="" info="" description="" streetviewlink="https://www.google.com/maps/@-23.4204547,-51.9440191,3a,75y,133.04h,90t/data=!3m4!1e1!3m2!1sCIABIhB9VsLKc7hnXi-zvcN5w_gl!2e10" copyright="" nodeid="node3" datetime="" tags="2" customnodeid="" title="HL Produções de Eventos Ltda&#xa;" latitude="-23.42044268"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" height="20" border="1" width="180" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot pan="-272.859" skinid="ht_node" id="Point01" url="{node2}" target="$fwd" description="" tilt="0" title="HL Produções de Eventos Ltda&#xa;" distance="3.04889"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomout="0" enabled="1" blendtime="1" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" delay="none" zoomoutpause="1" softedge="0"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" contextprojections="0" hideabout="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextvr="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="3000" leveltilesize="510" width="3000" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-85.5512" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata heading="-85.5512" author="" longitude="-51.94403484" source="" comment="" info="" description="" streetviewlink="https://www.google.com/maps/@-23.4204214,-51.9440338,3a,75y,274.45h,90t/data=!3m4!1e1!3m2!1sCIABIhBnIfBx2JB4jboJ38kfRxIm!2e10" copyright="" nodeid="node4" datetime="" tags="2" customnodeid="" title="HL Produções de Eventos Ltda&#xa;" latitude="-23.42042390"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" height="20" border="1" width="180" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot pan="-180.626" skinid="ht_node" id="Point01" url="{node2}" target="$fwd" description="" tilt="-0.1" title="HL Produções de Eventos Ltda&#xa;" distance="2.53168"/>
+      <hotspot pan="-96.4075" skinid="ht_node" id="Point02" url="{node5}" target="$fwd" description="" tilt="0" title="HL Produções de Eventos Ltda&#xa;" distance="1.63605"/>
+      <hotspot pan="-359.83" skinid="ht_node" id="Point03" url="{node6}" target="$fwd" description="" tilt="0.21" title="HL Produções de Eventos Ltda&#xa;" distance="1.67016"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomout="0" enabled="1" blendtime="1" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" delay="none" zoomoutpause="1" softedge="0"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" contextprojections="0" hideabout="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextvr="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="3000" leveltilesize="510" width="3000" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-25.1448" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata heading="-25.1448" author="" longitude="-51.94403182" source="" comment="" info="" description="" streetviewlink="https://www.google.com/maps/@-23.4204095,-51.9440318,3a,75y,334.86h,90t/data=!3m4!1e1!3m2!1sCIABIhDOehSkqF-us9CzpCzjbfoi!2e10" copyright="" nodeid="node5" datetime="" tags="2" customnodeid="" title="HL Produções de Eventos Ltda&#xa;" latitude="-23.42040945"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" height="20" border="1" width="180" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot pan="167.709" skinid="ht_node" id="Point01" url="{node4}" target="$fwd" description="" tilt="-0.08" title="HL Produções de Eventos Ltda&#xa;" distance="1.63605"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomout="0" enabled="1" blendtime="1" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" delay="none" zoomoutpause="1" softedge="0"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" contextprojections="0" hideabout="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextvr="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="3000" leveltilesize="510" width="3000" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-87.0582" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata heading="-87.0582" author="" longitude="-51.94405093" source="" comment="" info="" description="" streetviewlink="https://www.google.com/maps/@-23.4204211,-51.9440509,3a,75y,272.94h,90t/data=!3m4!1e1!3m2!1sCIABIhB6UtaiT4IWz-QOYJ6aLCHp!2e10" copyright="" nodeid="node6" datetime="" tags="2" customnodeid="" title="HL Produções de Eventos Ltda&#xa;" latitude="-23.42042114"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" height="20" border="1" width="180" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot pan="-187.647" skinid="ht_node" id="Point01" url="{node4}" target="$fwd" description="" tilt="0" title="HL Produções de Eventos Ltda&#xa;" distance="1.67016"/>
+      <hotspot pan="-94.5706" skinid="ht_node" id="Point02" url="{node7}" target="$fwd" description="" tilt="0" title="HL Produções de Eventos Ltda&#xa;" distance="1.31112"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomout="0" enabled="1" blendtime="1" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" delay="none" zoomoutpause="1" softedge="0"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" contextprojections="0" hideabout="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextvr="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="3000" leveltilesize="510" width="3000" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="3.42636" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata heading="3.42636" author="" longitude="-51.94404925" source="" comment="" info="" description="" streetviewlink="https://www.google.com/maps/@-23.4204095,-51.9440492,3a,75y,3.43h,90t/data=!3m4!1e1!3m2!1sCIABIhD0baL0FRRcqjfm4UHJ2Qfs!2e10" copyright="" nodeid="node7" datetime="" tags="2" customnodeid="" title="HL Produções de Eventos Ltda&#xa;" latitude="-23.42040945"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" height="20" border="1" width="180" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot pan="175.914" skinid="ht_node" id="Point01" url="{node6}" target="$fwd" description="" tilt="0" title="HL Produções de Eventos Ltda&#xa;" distance="1.31112"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomout="0" enabled="1" blendtime="1" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" delay="none" zoomoutpause="1" softedge="0"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" contextprojections="0" hideabout="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextvr="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="3000" leveltilesize="510" width="3000" levelbiashidpi="1.000" overlap="1" levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-96.5927" fovmode="2">
+      <start projection="4" pan="0" tilt="0" fov="100"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata heading="-96.5927" author="" longitude="-51.94399259" source="" comment="" info="" description="" copyright="" nodeid="node10" datetime="" tags="Pano2VR7" customnodeid="" title="H L Produções de Eventos Ltda" latitude="-23.42045406"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" height="20" border="1" width="180" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot pan="-68.876" skinid="ht_node" id="Point01" url="{node2}" target="$fwd" description="" tilt="0" title="HL Produções de Eventos Ltda&#xa;" distance="3.826"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomout="0" enabled="1" blendtime="1" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafteroutfov="40" blendcolor="0x000000" zoomfov="40" delay="none" zoomoutpause="1" softedge="0"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" contextprojections="0" hideabout="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedwheel="0" contextvr="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" author="" tags="" title="" comment="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
